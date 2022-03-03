@@ -1,6 +1,6 @@
 # <div id="top"></div>
 
-<div style="text-align:center"><img src="images/cover.jpg" /></div>
+<div style="text-align:center"><img src="images/cover.png" /></div>
 
 <!-- ABOUT THE PROJECT -->
 ## About Concurrent Programs
